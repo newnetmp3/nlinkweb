@@ -1,7 +1,8 @@
-baseURL: https://theme-cards.hbstack.dev/
-title: HB Cards Theme
+baseURL: https://www.navylink.net
+title: NavyLink
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
+# copyright: "Copyright © 2023-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
+copyright: "Copyright © 2023-{year} [Navylink.net](https://navylink.net/). All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
