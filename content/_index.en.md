@@ -1,5 +1,5 @@
 ---
-title: HB Cards Theme
+title: NavyLink.net
 # menu:
 #   main:
 #     name: Home
