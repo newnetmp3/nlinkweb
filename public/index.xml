@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HB Cards Theme</title>
+    <title>NavyLink.net on NavyLink</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on HB Cards Theme</description>
+    <description>Recent content in NavyLink.net on NavyLink</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 02 Dec 2023 11:47:31 +0800</lastBuildDate>
+    <copyright>Copyright © 2023-{year} [Navylink.net](https://navylink.net/). All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 06 Aug 2024 00:17:34 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Blog Post - 1</title>
+      <link>http://localhost:1313/blog/2024/08/test-blog-post-1/</link>
+      <pubDate>Tue, 06 Aug 2024 00:17:34 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024/08/test-blog-post-1/</guid>
+      <description>just because i can test!</description>
+    </item>
+    <item>
+      <title>test2</title>
+      <link>http://localhost:1313/2024-08-05-test2/</link>
+      <pubDate>Mon, 05 Aug 2024 23:37:19 +0000</pubDate>
+      <guid>http://localhost:1313/2024-08-05-test2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test-Frontmatter</title>
+      <link>http://localhost:1313/2024-08-05-test-frontmatter/</link>
+      <pubDate>Mon, 05 Aug 2024 23:32:13 +0000</pubDate>
+      <guid>http://localhost:1313/2024-08-05-test-frontmatter/</guid>
+      <description>This is just testing the frontmatter code extension. Hope i like it!</description>
+    </item>
     <item>
       <title>Install From Scratch</title>
       <link>http://localhost:1313/docs/install-from-scratch/</link>

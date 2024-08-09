@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on HB Cards Theme</title>
+    <title>Blog on NavyLink</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blog on HB Cards Theme</description>
+    <description>Recent content in Blog on NavyLink</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 26 Nov 2023 16:36:24 +0800</lastBuildDate>
+    <copyright>Copyright © 2023-{year} [Navylink.net](https://navylink.net/). All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 06 Aug 2024 00:17:34 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Blog Post - 1</title>
+      <link>http://localhost:1313/blog/2024/08/test-blog-post-1/</link>
+      <pubDate>Tue, 06 Aug 2024 00:17:34 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024/08/test-blog-post-1/</guid>
+      <description>just because i can test!</description>
+    </item>
     <item>
       <title>Diagrams and Charts</title>
       <link>http://localhost:1313/blog/2023/11/diagrams-and-charts/</link>

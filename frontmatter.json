@@ -1,0 +1,99 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "path": "[[workspace]]/content/archives",
+      "title": "archives"
+    },
+    {
+      "path": "[[workspace]]/content/authors",
+      "title": "authors"
+    },
+    {
+      "path": "[[workspace]]/content/blog",
+      "title": "blog"
+    },
+    {
+      "path": "[[workspace]]/content/categories",
+      "title": "categories"
+    },
+    {
+      "path": "[[workspace]]/content/docs",
+      "title": "docs"
+    },
+    {
+      "path": "[[workspace]]/content/news",
+      "title": "news"
+    },
+    {
+      "path": "[[workspace]]/content/notes",
+      "title": "notes"
+    },
+    {
+      "path": "[[workspace]]/content/series",
+      "title": "series"
+    },
+    {
+      "path": "[[workspace]]/content/tags",
+      "title": "tags"
+    },
+    {
+      "title": "images",
+      "path": "[[workspace]]/resources/_gen/images"
+    },
+    {
+      "title": "themes",
+      "path": "[[workspace]]/themes"
+    }
+  ]
+}
